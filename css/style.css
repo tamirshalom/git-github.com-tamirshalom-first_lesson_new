@@ -1,20 +1,26 @@
-/*body{
-	font-family: 'arial';
+@import url(smashing.css);
+@import url(fonts/OpenSans.eot);
 
-}
-.wrap{
-	width: 600px;
-	margin: 0 auto;
+body{
+	font-family:'OpenSans';
+    background-image: url(https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smbg.png);
+
 }
 
 header{
 	width: 580px;
-	background: #c1c1c1;
 }
 
 nav{
 	width: 200px;
 	height: 200px;
-	background: #c1c1c1;
+	display: inline-block;
+}
 
-}*/
+ul{
+	
+}
+
+li{
+	list-style: none;
+}
